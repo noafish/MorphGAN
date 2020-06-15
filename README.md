@@ -13,6 +13,7 @@ In image morphing, a sequence of plausible frames are synthesized and composited
 ### Paper
 
 [arXiv](https://arxiv.org/abs/2004.14071)
+
 [Computer Graphics Forum](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14027)
 
 
