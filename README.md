@@ -45,6 +45,7 @@ This code is heavily based on the [pytorch-CycleGAN-and-pix2pix](https://github.
 
 If you find this code useful, please consider citing our paper:
 
+```
 @inproceedings{fish2020image,
 	title={Image Morphing With Perceptual Constraints and STN Alignment},
 	author={Fish, Noa and Zhang, Richard and Perry, Lilach and Cohen-Or, Daniel and Shechtman, Eli and Barnes, Connelly},
@@ -52,4 +53,4 @@ If you find this code useful, please consider citing our paper:
 	year={2020},
 	organization={Wiley Online Library}
 }
-
+```
